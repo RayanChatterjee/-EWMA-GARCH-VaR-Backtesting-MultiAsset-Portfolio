@@ -1,2 +1,6 @@
-# -EWMA-GARCH-VaR-Backtesting-MultiAsset-Portfolio
-Analyze portfolio risk (AAPL, MSFT, SPY, TLT) from 2020–2024 using static, EWMA, and GARCH VaR models. Backtested using Kupiec and Christoffersen tests to assess accuracy and exception independence. Built with Python, yfinance, arch, and matplotlib.
+# 📉 Dynamic Portfolio Risk Analysis with EWMA & GARCH
+This project models and backtests Value at Risk (VaR) for a multi-asset portfolio of **AAPL**, **MSFT**, **SPY**, and **TLT** from **2020 to 2024**, using:
+
+- ✅ Static (historical) volatility  
+- ✅ **EWMA** (Exponentially Weighted Moving Average) volatility  
+- ✅ **GARCH(1,1)** model (Generalized Autoregressive Conditional Heteroskedasticity)
