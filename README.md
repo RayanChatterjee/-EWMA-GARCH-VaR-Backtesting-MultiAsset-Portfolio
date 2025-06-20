@@ -1,5 +1,5 @@
 # 📉 Dynamic Portfolio Risk Analysis with EWMA & GARCH
-This project models and backtests Value at Risk (VaR) for a multi-asset portfolio of **AAPL**, **MSFT**, **SPY**, and **TLT** from **2020 to 2024**, using:
+This is an extension of the project git@github.com:RayanChatterjee/Value-at-Risk-VaR-and-Stress-Testing-in-Python.git, which models the Value at Risk (VaR) for a multi-asset portfolio of **AAPL**, **MSFT**, **SPY**, and **TLT** from **2020 to 2024**. This project models and backtests the VaR estimates of the same portfolio using:
 
 - ✅ Static (historical) volatility  
 - ✅ **EWMA** (Exponentially Weighted Moving Average) volatility  
