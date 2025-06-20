@@ -67,4 +67,4 @@ To understand how portfolio risk evolves over time, and evaluate whether time-de
 
 If you're working on risk modeling, VaR, or stress testing — let's connect and exchange insights!
 LinkedIn Profile: https://www.linkedin.com/in/rayan-chatterjee-phd-513390171/
-GitHub link:
+GitHub link: git@github.com:RayanChatterjee/-EWMA-GARCH-VaR-Backtesting-MultiAsset-Portfolio.git
